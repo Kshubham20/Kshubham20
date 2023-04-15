@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Kshubham20/Kshubham20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Kshubham20/Kshubham20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">An Enthusiastic Learner, Passionate about learning & exploring new technologies.</h3>
@@ -34,3 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=191932-sinharitika009&show_icons=true&locale=en&layout=compact" alt="191932-sinharitika009" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=191932-sinharitika009&show_icons=true&locale=en" alt="191932-sinharitika009" /></p>
+-->
